@@ -23,12 +23,12 @@ Este proyecto es un conversor de monedas desarrollado en Java que utiliza una AP
 
 1. Clone este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/conversor-moneda.git
+   git clone https://github.com/kleber89/conversordemonedas.git
    ```
 
 2. Navegue al directorio del proyecto:
    ```bash
-   cd conversor-moneda
+   cd conversordemonedas
    ```
 
 3. Asegúrese de tener todas las dependencias necesarias en su classpath (especialmente Gson 2.10.1).
